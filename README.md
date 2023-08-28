@@ -8,5 +8,3 @@ Proyecto de la universidad dividido en 5 partes 4 en pareja y la parte final de 
 
 Compañero del proyeto: Diego Alonso
 Fecha de duración del proyecto: Enero del 2022 a Junio 2022
-
-Proyecto de la universidad en el que se simula el registro de citas y pacientes
